@@ -1,0 +1,20 @@
+{
+  "short_name": "Royal Guard",
+  "name": "Royal guard security app",
+  "icons": [
+    {
+      "src": "./icons/first.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/second.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#070C3D",
+  "background_color": "#070C3D"
+}
