@@ -11,7 +11,7 @@ const NavBar = () => {
             data-target="mobile-demo"
             className="sidenav-trigger show-on-large"
           >
-            <i className="matertialize-icon">menu</i>
+          <i class="material-icons">menu</i>
           </a>
 
           <ul className="right hide-on-med-and-down">
